@@ -6,7 +6,7 @@
 <description>Latest stories from The Telegraph daily-news sitemap, converted to RSS. Source: https://www.telegraph.co.uk/custom/daily-news/sitemap.xml</description>
 <language>en</language>
 <lastBuildDate>Wed, 11 Nov 2026 21:46:28 +0000</lastBuildDate>
-<atom:link href="https://delayrelease.github.io/telegraph-daily-news-rss/feed.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="https://cdn.jsdelivr.net/gh/DelayRelease/telegraph-daily-news-rss@main/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Trump Jr calls Russell Brand a victim of ‘two-tier justice’</title>
 <link>https://www.telegraph.co.uk/us/news/2026/11/11/trump-jr-calls-russell-brand-a-victim-of-two-tier-justice/</link>

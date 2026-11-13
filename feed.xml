@@ -5,8 +5,19 @@
 <link>https://www.telegraph.co.uk/</link>
 <description>Latest stories from The Telegraph daily-news sitemap, converted to RSS. Source: https://www.telegraph.co.uk/custom/daily-news/sitemap.xml</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 01:04:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 03:45:35 +0000</lastBuildDate>
 <atom:link href="https://cdn.jsdelivr.net/gh/DelayRelease/telegraph-daily-news-rss@main/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Microsoft outage: Tens of thousands impacted worldwide</title>
+<link>https://www.telegraph.co.uk/business/2026/11/13/microsoft-outage-outlook-teams-thousands-impacted-worldwide/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/business/2026/11/13/microsoft-outage-outlook-teams-thousands-impacted-worldwide/</guid>
+<pubDate>Fri, 13 Nov 2026 03:45:35 +0000</pubDate>
+<category>Microsoft</category>
+<category>Big tech</category>
+<category>Business</category>
+<category>US content</category>
+<category>Standard</category>
+</item>
 <item>
 <title>Ukrainian drone strikes Russian warship in Gulf of Finland</title>
 <link>https://www.telegraph.co.uk/world-news/2026/11/13/ukraine-drone-strikes-russian-warship-gulf-of-finland/</link>
@@ -1262,15 +1273,6 @@
 <category>Shoplifting</category>
 <category>News</category>
 <category>UK News</category>
-<category>Standard</category>
-</item>
-<item>
-<title>Jaguar Land Rover dealt setback in court battle over Chinese ‘copycat Defender’</title>
-<link>https://www.telegraph.co.uk/business/2026/11/12/jaguar-land-rover-in-court-battle-over-copycat-defender/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/business/2026/11/12/jaguar-land-rover-in-court-battle-over-copycat-defender/</guid>
-<pubDate>Thu, 12 Nov 2026 12:49:05 +0000</pubDate>
-<category>Jaguar Land Rover</category>
-<category>Business</category>
 <category>Standard</category>
 </item>
 </channel>

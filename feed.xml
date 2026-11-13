@@ -5,13 +5,13 @@
 <link>https://www.telegraph.co.uk/</link>
 <description>Latest stories from The Telegraph daily-news sitemap, converted to RSS. Source: https://www.telegraph.co.uk/custom/daily-news/sitemap.xml</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 21:28:25 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 22:30:32 +0000</lastBuildDate>
 <atom:link href="https://cdn.jsdelivr.net/gh/DelayRelease/telegraph-daily-news-rss@main/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>France vs South Africa: Score and latest updates from Nations Championship</title>
+<title>France repel South Africa onslaught to win classic in Nations Championship</title>
 <link>https://www.telegraph.co.uk/rugby-union/2026/11/13/france-vs-south-africa-score-updates-nations-championship/</link>
 <guid isPermaLink="true">https://www.telegraph.co.uk/rugby-union/2026/11/13/france-vs-south-africa-score-updates-nations-championship/</guid>
-<pubDate>Fri, 13 Nov 2026 21:28:25 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 22:30:32 +0000</pubDate>
 <category>France Rugby Union Team</category>
 <category>South Africa Rugby Union Team</category>
 <category>Rugby Nations Championship</category>
@@ -19,6 +19,19 @@
 <category>Rugby Union</category>
 <category>Sport</category>
 <category>Live Priority</category>
+</item>
+<item>
+<title>All US flights grounded because of &#x27;extraordinary circumstances&#x27;</title>
+<link>https://www.telegraph.co.uk/us/news/2026/11/13/all-us-flights-grounded-because-extraordinary-circumstances/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/us/news/2026/11/13/all-us-flights-grounded-because-extraordinary-circumstances/</guid>
+<pubDate>Fri, 13 Nov 2026 22:27:28 +0000</pubDate>
+<category>Aviation</category>
+<category>Airport</category>
+<category>Apple News free</category>
+<category>News</category>
+<category>US News</category>
+<category>US content</category>
+<category>Live &amp; breaking</category>
 </item>
 <item>
 <title>All US flights grounded over ‘extraordinary circumstances’</title>
@@ -1361,13 +1374,6 @@
 <category>Business</category>
 <category>Standard</category>
 <category>Apple News free</category>
-</item>
-<item>
-<title>Independent winemakers Christmas</title>
-<link>https://www.telegraph.co.uk/sponsored/independent-winemakers-christmas/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/sponsored/independent-winemakers-christmas/</guid>
-<pubDate>Fri, 13 Nov 2026 12:30:00 +0000</pubDate>
-<category>Sponsored</category>
 </item>
 </channel>
 </rss>

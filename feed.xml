@@ -5,20 +5,46 @@
 <link>https://www.telegraph.co.uk/</link>
 <description>Latest stories from The Telegraph daily-news sitemap, converted to RSS. Source: https://www.telegraph.co.uk/custom/daily-news/sitemap.xml</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 03:09:52 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 05:00:00 +0000</lastBuildDate>
 <atom:link href="https://cdn.jsdelivr.net/gh/DelayRelease/telegraph-daily-news-rss@main/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>US flights restart after nationwide ground stop</title>
+<title>The redesigned Russian missile splitting Ukraine in two</title>
+<link>https://www.telegraph.co.uk/world-news/2026/11/14/redesigned-russia-missile-strikes-ukraine-war-europe/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/world-news/2026/11/14/redesigned-russia-missile-strikes-ukraine-war-europe/</guid>
+<pubDate>Sat, 14 Nov 2026 05:00:00 +0000</pubDate>
+<category>Russia-Ukraine war</category>
+<category>Russia</category>
+<category>Defence industry</category>
+<category>World News</category>
+<category>US content</category>
+<category>Standard</category>
+</item>
+<item>
+<title>Flights restart after US ground stop with more delays ahead</title>
 <link>https://www.telegraph.co.uk/us/news/2026/11/13/all-us-flights-grounded-because-extraordinary-circumstances/</link>
 <guid isPermaLink="true">https://www.telegraph.co.uk/us/news/2026/11/13/all-us-flights-grounded-because-extraordinary-circumstances/</guid>
-<pubDate>Sat, 14 Nov 2026 03:09:52 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 04:48:16 +0000</pubDate>
 <category>Aviation</category>
 <category>Airport</category>
+<category>Donald Trump</category>
 <category>Apple News free</category>
 <category>News</category>
 <category>US News</category>
 <category>US content</category>
 <category>Live &amp; breaking</category>
+</item>
+<item>
+<title>US flights grounded for four hours after system outage</title>
+<link>https://www.telegraph.co.uk/us/news/2026/11/14/us-flights-restart-after-nationwide-ground-stop/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/us/news/2026/11/14/us-flights-restart-after-nationwide-ground-stop/</guid>
+<pubDate>Sat, 14 Nov 2026 04:36:17 +0000</pubDate>
+<category>Aviation</category>
+<category>Airport</category>
+<category>Donald Trump</category>
+<category>News</category>
+<category>US News</category>
+<category>US content</category>
+<category>Standard</category>
 </item>
 <item>
 <title>Trump to meet Xi and Putin in China</title>
@@ -1340,34 +1366,6 @@
 <title>‘I want to leave my stepchildren my stock market fortune – how can I cut their tax bill?’</title>
 <link>https://www.telegraph.co.uk/money/investing/stocks-shares/i-want-to-leave-my-stepchildren-my-stock-market-fortune/</link>
 <guid isPermaLink="true">https://www.telegraph.co.uk/money/investing/stocks-shares/i-want-to-leave-my-stepchildren-my-stock-market-fortune/</guid>
-<pubDate>Fri, 13 Nov 2026 13:00:00 +0000</pubDate>
-<category>Consumer Affairs</category>
-<category>Shares</category>
-<category>ISAs</category>
-<category>Money</category>
-<category>Better Life Experts</category>
-<category>Standard</category>
-</item>
-<item>
-<title>James Talarico and Gina Hinojosa swept Texas in the midterms can the Republicans win it back?</title>
-<link>https://www.telegraph.co.uk/us/politics/2026/11/13/the-right-track-republicans-texas-talarico-trump-midterms/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/us/politics/2026/11/13/the-right-track-republicans-texas-talarico-trump-midterms/</guid>
-<pubDate>Fri, 13 Nov 2026 13:00:00 +0000</pubDate>
-<category>US Politics</category>
-<category>US midterms</category>
-<category>Donald Trump</category>
-<category>Republicans</category>
-<category>Democrats</category>
-<category>The Right Track</category>
-<category>US content</category>
-<category>Politics</category>
-<category>Premium exclusion</category>
-<category>Standard</category>
-</item>
-<item>
-<title>‘I want to leave my stepchildren my stock market fortune – how can I cut their tax bill?’</title>
-<link>https://www.telegraph.co.uk/money/consumer-affairs/i-want-to-leave-my-stepchildren-my-stock-market-fortune/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/money/consumer-affairs/i-want-to-leave-my-stepchildren-my-stock-market-fortune/</guid>
 <pubDate>Fri, 13 Nov 2026 13:00:00 +0000</pubDate>
 <category>Consumer Affairs</category>
 <category>Shares</category>

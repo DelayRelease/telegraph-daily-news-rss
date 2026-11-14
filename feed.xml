@@ -5,8 +5,48 @@
 <link>https://www.telegraph.co.uk/</link>
 <description>Latest stories from The Telegraph daily-news sitemap, converted to RSS. Source: https://www.telegraph.co.uk/custom/daily-news/sitemap.xml</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 23:21:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 23:53:46 +0000</lastBuildDate>
 <atom:link href="https://cdn.jsdelivr.net/gh/DelayRelease/telegraph-daily-news-rss@main/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>All US flights grounded because of &#x27;extraordinary circumstances&#x27;</title>
+<link>https://www.telegraph.co.uk/us/news/2026/11/13/all-us-flights-grounded-because-extraordinary-circumstances/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/us/news/2026/11/13/all-us-flights-grounded-because-extraordinary-circumstances/</guid>
+<pubDate>Fri, 13 Nov 2026 23:53:46 +0000</pubDate>
+<category>Aviation</category>
+<category>Airport</category>
+<category>Apple News free</category>
+<category>News</category>
+<category>US News</category>
+<category>US content</category>
+<category>Live &amp; breaking</category>
+</item>
+<item>
+<title>Goalkeeper whose foul led to player’s death banned for 12 matches</title>
+<link>https://www.telegraph.co.uk/football/2026/11/13/jesus-owono-jesus-de-miguel-death-banned-tenerife-andorra/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/football/2026/11/13/jesus-owono-jesus-de-miguel-death-banned-tenerife-andorra/</guid>
+<pubDate>Fri, 13 Nov 2026 23:39:08 +0000</pubDate>
+<category>La Liga</category>
+<category>Tenerife</category>
+<category>Sport</category>
+<category>Football</category>
+<category>US content</category>
+<category>Standard</category>
+</item>
+<item>
+<title>Cole Allen, teacher accused of trying to assassinate Trump, is charged with terrorism</title>
+<link>https://www.telegraph.co.uk/us/news/2026/11/13/teacher-accused-trying-assassinate-trump-terror-charge/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/us/news/2026/11/13/teacher-accused-trying-assassinate-trump-terror-charge/</guid>
+<pubDate>Fri, 13 Nov 2026 23:35:24 +0000</pubDate>
+<category>Donald Trump</category>
+<category>Terrorism</category>
+<category>Gun violence</category>
+<category>Court cases</category>
+<category>Washington D.C.</category>
+<category>News</category>
+<category>US News</category>
+<category>US content</category>
+<category>Standard</category>
+</item>
 <item>
 <title>France 21 South Africa 19: Les Bleus pull off one of greatest wins as Erasmus mind games backfire</title>
 <link>https://www.telegraph.co.uk/rugby-union/2026/11/13/france-vs-south-africa-score-updates-nations-championship/</link>
@@ -19,19 +59,6 @@
 <category>Rugby Union</category>
 <category>Sport</category>
 <category>Live Priority</category>
-</item>
-<item>
-<title>All US flights grounded because of ‘extraordinary circumstances’</title>
-<link>https://www.telegraph.co.uk/us/news/2026/11/13/all-us-flights-grounded-because-extraordinary-circumstances/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/us/news/2026/11/13/all-us-flights-grounded-because-extraordinary-circumstances/</guid>
-<pubDate>Fri, 13 Nov 2026 23:06:04 +0000</pubDate>
-<category>Aviation</category>
-<category>Airport</category>
-<category>Apple News free</category>
-<category>News</category>
-<category>US News</category>
-<category>US content</category>
-<category>Live &amp; breaking</category>
 </item>
 <item>
 <title>All US flights grounded over ‘extraordinary circumstances’</title>
@@ -1346,34 +1373,6 @@
 <category>Cricket</category>
 <category>Sport</category>
 <category>Standard</category>
-</item>
-<item>
-<title>ECB threatens to ban BBC pundits over YouTube watchalong</title>
-<link>https://www.telegraph.co.uk/cricket/2026/11/13/ecb-threatens-to-ban-bbc-pundits-over-youtube-watchalong/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/cricket/2026/11/13/ecb-threatens-to-ban-bbc-pundits-over-youtube-watchalong/</guid>
-<pubDate>Fri, 13 Nov 2026 12:57:38 +0000</pubDate>
-<category>England and Wales Cricket Board (ECB)</category>
-<category>BBC</category>
-<category>talkSPORT</category>
-<category>England Cricket Team</category>
-<category>YouTube</category>
-<category>Cricket</category>
-<category>Sport</category>
-<category>Live Priority</category>
-<category>Standard</category>
-</item>
-<item>
-<title>Microsoft outage disrupts 999 services – latest updates</title>
-<link>https://www.telegraph.co.uk/business/2026/11/13/microsoft-outage-outlook-down-live-updates/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/business/2026/11/13/microsoft-outage-outlook-down-live-updates/</guid>
-<pubDate>Fri, 13 Nov 2026 12:30:44 +0000</pubDate>
-<category>UK economy</category>
-<category>Global economy</category>
-<category>Microsoft</category>
-<category>Microsoft Outage</category>
-<category>Business</category>
-<category>Standard</category>
-<category>Apple News free</category>
 </item>
 </channel>
 </rss>

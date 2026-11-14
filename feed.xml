@@ -5,13 +5,13 @@
 <link>https://www.telegraph.co.uk/</link>
 <description>Latest stories from The Telegraph daily-news sitemap, converted to RSS. Source: https://www.telegraph.co.uk/custom/daily-news/sitemap.xml</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 23:53:46 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 01:22:20 +0000</lastBuildDate>
 <atom:link href="https://cdn.jsdelivr.net/gh/DelayRelease/telegraph-daily-news-rss@main/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>All US flights grounded because of &#x27;extraordinary circumstances&#x27;</title>
 <link>https://www.telegraph.co.uk/us/news/2026/11/13/all-us-flights-grounded-because-extraordinary-circumstances/</link>
 <guid isPermaLink="true">https://www.telegraph.co.uk/us/news/2026/11/13/all-us-flights-grounded-because-extraordinary-circumstances/</guid>
-<pubDate>Fri, 13 Nov 2026 23:53:46 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 01:22:20 +0000</pubDate>
 <category>Aviation</category>
 <category>Airport</category>
 <category>Apple News free</category>
@@ -19,6 +19,20 @@
 <category>US News</category>
 <category>US content</category>
 <category>Live &amp; breaking</category>
+</item>
+<item>
+<title>Trump to meet Xi and Putin in China</title>
+<link>https://www.telegraph.co.uk/us/politics/2026/11/14/trump-to-meet-xi-and-putin-in-china/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/us/politics/2026/11/14/trump-to-meet-xi-and-putin-in-china/</guid>
+<pubDate>Sat, 14 Nov 2026 00:46:48 +0000</pubDate>
+<category>US Politics</category>
+<category>Vladimir Putin</category>
+<category>Xi Jinping</category>
+<category>China</category>
+<category>US content</category>
+<category>Politics</category>
+<category>US News</category>
+<category>Standard</category>
 </item>
 <item>
 <title>Goalkeeper whose foul led to player’s death banned for 12 matches</title>
@@ -1360,18 +1374,6 @@
 <category>ISAs</category>
 <category>Money</category>
 <category>Better Life Experts</category>
-<category>Standard</category>
-</item>
-<item>
-<title>ECB threatens to ban BBC pundits over YouTube watchalong</title>
-<link>https://www.telegraph.co.uk/cricket/2026/11/13/ecb-threatens-ban-bbc-pundits-youtube-watchalong/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/cricket/2026/11/13/ecb-threatens-ban-bbc-pundits-youtube-watchalong/</guid>
-<pubDate>Fri, 13 Nov 2026 12:57:38 +0000</pubDate>
-<category>England and Wales Cricket Board (ECB)</category>
-<category>BBC</category>
-<category>YouTube</category>
-<category>Cricket</category>
-<category>Sport</category>
 <category>Standard</category>
 </item>
 </channel>

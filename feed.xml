@@ -5,8 +5,21 @@
 <link>https://www.telegraph.co.uk/</link>
 <description>Latest stories from The Telegraph daily-news sitemap, converted to RSS. Source: https://www.telegraph.co.uk/custom/daily-news/sitemap.xml</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 03:08:18 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 05:19:13 +0000</lastBuildDate>
 <atom:link href="https://cdn.jsdelivr.net/gh/DelayRelease/telegraph-daily-news-rss@main/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Australia v England live: Score and latest updates from second ODI</title>
+<link>https://www.telegraph.co.uk/cricket/2026/11/15/australia-v-england-score-and-updates-from-second-odi/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/cricket/2026/11/15/australia-v-england-score-and-updates-from-second-odi/</guid>
+<pubDate>Sun, 15 Nov 2026 05:19:13 +0000</pubDate>
+<category>England Cricket Team</category>
+<category>Australia Cricket Team</category>
+<category>Adelaide Oval</category>
+<category>Apple News free</category>
+<category>Cricket</category>
+<category>Sport</category>
+<category>Live Priority</category>
+</item>
 <item>
 <title>Pochettino: Man Utd job will be ‘very intense’</title>
 <link>https://www.telegraph.co.uk/football/2026/11/15/pochettino-man-utd-job-will-be-very-intense/</link>
@@ -1356,19 +1369,6 @@
 <category>China</category>
 <category>Business</category>
 <category>Companies</category>
-<category>Standard</category>
-</item>
-<item>
-<title>Bellingham is on course to obliterate Kane’s England caps record</title>
-<link>https://www.telegraph.co.uk/football/2026/11/14/bellingham-on-course-obliterate-kane-england-cap-record/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/football/2026/11/14/bellingham-on-course-obliterate-kane-england-cap-record/</guid>
-<pubDate>Sat, 14 Nov 2026 08:30:00 +0000</pubDate>
-<category>England Football Team</category>
-<category>Harry Kane</category>
-<category>Jude Bellingham</category>
-<category>Sport</category>
-<category>Football</category>
-<category>US content</category>
 <category>Standard</category>
 </item>
 </channel>

@@ -5,13 +5,13 @@
 <link>https://www.telegraph.co.uk/</link>
 <description>Latest stories from The Telegraph daily-news sitemap, converted to RSS. Source: https://www.telegraph.co.uk/custom/daily-news/sitemap.xml</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 09:30:31 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 10:27:28 +0000</lastBuildDate>
 <atom:link href="https://cdn.jsdelivr.net/gh/DelayRelease/telegraph-daily-news-rss@main/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Australia v England live: Score and latest updates from second ODI</title>
 <link>https://www.telegraph.co.uk/cricket/2026/11/15/australia-v-england-score-and-updates-from-second-odi/</link>
 <guid isPermaLink="true">https://www.telegraph.co.uk/cricket/2026/11/15/australia-v-england-score-and-updates-from-second-odi/</guid>
-<pubDate>Sun, 15 Nov 2026 09:30:31 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 10:27:28 +0000</pubDate>
 <category>England Cricket Team</category>
 <category>Australia Cricket Team</category>
 <category>Adelaide Oval</category>
@@ -22,6 +22,96 @@
 <category>Cricket</category>
 <category>Sport</category>
 <category>Live Priority</category>
+</item>
+<item>
+<title>Ireland 43 Fiji 15: Farrell’s side stay in hunt for final place despite complacent display</title>
+<link>https://www.telegraph.co.uk/rugby-union/2026/11/14/ireland-vs-fiji-live-score-latest-nations-championship/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/rugby-union/2026/11/14/ireland-vs-fiji-live-score-latest-nations-championship/</guid>
+<pubDate>Sun, 15 Nov 2026 10:09:14 +0000</pubDate>
+<category>Ireland Rugby Union Team</category>
+<category>Fiji Rugby Union Team</category>
+<category>Andy Farrell</category>
+<category>Apple News free</category>
+<category>Rugby Union</category>
+<category>Sport</category>
+</item>
+<item>
+<title>Two dead after car in police chase crashes into another vehicle</title>
+<link>https://www.telegraph.co.uk/news/2026/11/15/two-dead-police-car/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/news/2026/11/15/two-dead-police-car/</guid>
+<pubDate>Sun, 15 Nov 2026 10:02:07 +0000</pubDate>
+<category>In the news</category>
+<category>News</category>
+<category>Standard</category>
+</item>
+<item>
+<title>Martha Reeves interview: I had a crush on Marvin Gaye</title>
+<link>https://www.telegraph.co.uk/music/interviews/martha-reeves-interview-mick-jagger-regret/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/music/interviews/martha-reeves-interview-mick-jagger-regret/</guid>
+<pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+<category>Motown music</category>
+<category>Pop music</category>
+<category>Sir Mick Jagger</category>
+<category>Music</category>
+<category>Culture</category>
+<category>Culture Editor&#x27;s Choice</category>
+<category>US content</category>
+<category>Standard</category>
+</item>
+<item>
+<title>The common conditions mistaken for ADHD – and how to tell the difference</title>
+<link>https://www.telegraph.co.uk/health-fitness/wellbeing/mental-health/five-conditions-similar-symptoms-adhd-midlife/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/health-fitness/wellbeing/mental-health/five-conditions-similar-symptoms-adhd-midlife/</guid>
+<pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+<category>Mental health</category>
+<category>Attention deficit hyperactivity disorder (ADHD)</category>
+<category>Health and Fitness</category>
+<category>Wellbeing</category>
+<category>Mental health</category>
+<category>US content</category>
+<category>Standard</category>
+</item>
+<item>
+<title>‘I make £100k a year selling homes – £70k more than a high street estate agent’</title>
+<link>https://www.telegraph.co.uk/money/property/buying-selling/i-make-100k-a-year-as-a-self-employed-estate-agent/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/money/property/buying-selling/i-make-100k-a-year-as-a-self-employed-estate-agent/</guid>
+<pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+<category>Buying property</category>
+<category>Selling property</category>
+<category>Estate agents</category>
+<category>Money</category>
+<category>Property</category>
+<category>Better Life Feature</category>
+<category>Standard</category>
+</item>
+<item>
+<title>Tourists at memorial sites have reached a new level of disrespectful</title>
+<link>https://www.telegraph.co.uk/news/2026/11/15/tourists-at-memorial-sites-auschwitz-disrespect/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/news/2026/11/15/tourists-at-memorial-sites-auschwitz-disrespect/</guid>
+<pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+<category>The Holocaust</category>
+<category>Auschwitz</category>
+<category>Holocaust Memorial Day</category>
+<category>Anti-Semitism</category>
+<category>Nazis</category>
+<category>News</category>
+<category>Daily Features</category>
+<category>Other features</category>
+<category>US content</category>
+<category>Standard</category>
+</item>
+<item>
+<title>Pochettino may be the one to lift Man Utd curse – but so were the last seven managers</title>
+<link>https://www.telegraph.co.uk/football/2026/11/15/mauricio-pochettino-lift-man-utd-curse-last-seven-managers/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/football/2026/11/15/mauricio-pochettino-lift-man-utd-curse-last-seven-managers/</guid>
+<pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+<category>Manchester United FC</category>
+<category>Premier League</category>
+<category>Mauricio Pochettino</category>
+<category>Sport</category>
+<category>Football</category>
+<category>US content</category>
+<category>Comment</category>
 </item>
 <item>
 <title>Why ‘haunted’ Meghan must speak out after Thomas Markle abuse claims</title>
@@ -606,18 +696,6 @@
 <category>World News</category>
 <category>US content</category>
 <category>Standard</category>
-</item>
-<item>
-<title>Ireland 43 Fiji 15: Farrell’s side stay in hunt for final place despite complacent creeping in</title>
-<link>https://www.telegraph.co.uk/rugby-union/2026/11/14/ireland-vs-fiji-live-score-latest-nations-championship/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/rugby-union/2026/11/14/ireland-vs-fiji-live-score-latest-nations-championship/</guid>
-<pubDate>Sat, 14 Nov 2026 22:38:48 +0000</pubDate>
-<category>Ireland Rugby Union Team</category>
-<category>Fiji Rugby Union Team</category>
-<category>Andy Farrell</category>
-<category>Apple News free</category>
-<category>Rugby Union</category>
-<category>Sport</category>
 </item>
 <item>
 <title>Arsene Wenger will not run against Gianni Infantino</title>
@@ -1303,93 +1381,6 @@
 <category>European Union</category>
 <category>World News</category>
 <category>Sunday Telegraph News</category>
-<category>Standard</category>
-</item>
-<item>
-<title>China is the big winner from the Nvidia debacle</title>
-<link>https://www.telegraph.co.uk/news/2026/11/14/huang-nvidia-affairs-chips-ai-china-us-trump/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/news/2026/11/14/huang-nvidia-affairs-chips-ai-china-us-trump/</guid>
-<pubDate>Sat, 14 Nov 2026 14:00:00 +0000</pubDate>
-<category>China</category>
-<category>Nvidia</category>
-<category>Xi Jinping</category>
-<category>News</category>
-<category>Opinion</category>
-<category>Comment</category>
-</item>
-<item>
-<title>Sacred Mysteries: The Teddy of Teddy Hall adopted by Cambridge too</title>
-<link>https://www.telegraph.co.uk/opinion/2026/11/14/sacred-mysteries-the-teddy-of-teddy-hall-cambridge/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/opinion/2026/11/14/sacred-mysteries-the-teddy-of-teddy-hall-cambridge/</guid>
-<pubDate>Sat, 14 Nov 2026 13:50:54 +0000</pubDate>
-<category>Christianity</category>
-<category>University of Cambridge</category>
-<category>Cambridge</category>
-<category>University of Oxford</category>
-<category>Oxford</category>
-<category>Catholicism</category>
-<category>Opinion</category>
-<category>Christopher Howse</category>
-<category>Comment</category>
-</item>
-<item>
-<title>Sacred Mysteries: The Teddy of Teddy Hall adopted by Cambridge too</title>
-<link>https://www.telegraph.co.uk/opinion/2026/11/14/sacred-mysteries-the-teddy-of-teddy-hall-cambridge-too/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/opinion/2026/11/14/sacred-mysteries-the-teddy-of-teddy-hall-cambridge-too/</guid>
-<pubDate>Sat, 14 Nov 2026 13:50:54 +0000</pubDate>
-<category>Christianity</category>
-<category>University of Cambridge</category>
-<category>Cambridge</category>
-<category>University of Oxford</category>
-<category>Oxford</category>
-<category>Catholicism</category>
-<category>News</category>
-<category>Opinion</category>
-<category>Comment</category>
-</item>
-<item>
-<title>Jewish heirs challenge auction of £135m Van Gogh over ‘Nazi duress’ claim</title>
-<link>https://www.telegraph.co.uk/world-news/2026/11/14/jewish-heirs-challenge-auction-135m-van-gogh-nazi-duress/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/world-news/2026/11/14/jewish-heirs-challenge-auction-135m-van-gogh-nazi-duress/</guid>
-<pubDate>Sat, 14 Nov 2026 13:44:42 +0000</pubDate>
-<category>Vincent Van Gogh</category>
-<category>Sotheby&#x27;s</category>
-<category>Paintings</category>
-<category>Restitution</category>
-<category>World News</category>
-<category>US content</category>
-<category>Standard</category>
-</item>
-<item>
-<title>Burnham defends EU ‘reset’ deal: ‘Since Brexit we have lost more than we’ve gained’</title>
-<link>https://www.telegraph.co.uk/politics/2026/11/14/burnham-defends-european-union-reset-deal-brexit/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/politics/2026/11/14/burnham-defends-european-union-reset-deal-brexit/</guid>
-<pubDate>Sat, 14 Nov 2026 13:34:14 +0000</pubDate>
-<category>Brexit</category>
-<category>European Union</category>
-<category>Andy Burnham</category>
-<category>Labour Party</category>
-<category>Brussels</category>
-<category>Margaret Thatcher</category>
-<category>News</category>
-<category>Politics</category>
-<category>UK News</category>
-<category>Standard</category>
-</item>
-<item>
-<title>Burnham defends EU ‘reset’ deal: ‘Since Brexit we have lost more than we’ve gained’</title>
-<link>https://www.telegraph.co.uk/politics/2026/11/14/burnham-defends-european-union-reset-deal-brexit-lost-more/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/politics/2026/11/14/burnham-defends-european-union-reset-deal-brexit-lost-more/</guid>
-<pubDate>Sat, 14 Nov 2026 13:34:14 +0000</pubDate>
-<category>Brexit</category>
-<category>European Union</category>
-<category>Andy Burnham</category>
-<category>Labour Party</category>
-<category>Brussels</category>
-<category>Margaret Thatcher</category>
-<category>News</category>
-<category>Politics</category>
-<category>UK News</category>
 <category>Standard</category>
 </item>
 </channel>

@@ -5,25 +5,13 @@
 <link>https://www.telegraph.co.uk/</link>
 <description>Latest stories from The Telegraph daily-news sitemap, converted to RSS. Source: https://www.telegraph.co.uk/custom/daily-news/sitemap.xml</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 20:26:22 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 21:26:33 +0000</lastBuildDate>
 <atom:link href="https://cdn.jsdelivr.net/gh/DelayRelease/telegraph-daily-news-rss@main/feed.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>Monk who disappeared off Scottish island ‘had no plan to take own life’</title>
-<link>https://www.telegraph.co.uk/news/2026/11/15/monk-disappeared-off-scottish-island-no-plan-suicide/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/news/2026/11/15/monk-disappeared-off-scottish-island-no-plan-suicide/</guid>
-<pubDate>Sun, 15 Nov 2026 20:26:22 +0000</pubDate>
-<category>Police Scotland</category>
-<category>Scotland</category>
-<category>Catholicism</category>
-<category>Orkney</category>
-<category>News</category>
-<category>Standard</category>
-</item>
 <item>
 <title>England vs Spain live: Score and latest Uefa Nations League updates</title>
 <link>https://www.telegraph.co.uk/football/2026/11/15/spain-vs-england-live-score-latest-nations-league-updates/</link>
 <guid isPermaLink="true">https://www.telegraph.co.uk/football/2026/11/15/spain-vs-england-live-score-latest-nations-league-updates/</guid>
-<pubDate>Sun, 15 Nov 2026 20:23:06 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 21:26:33 +0000</pubDate>
 <category>England Football Team</category>
 <category>Thomas Tuchel</category>
 <category>Harry Kane</category>
@@ -35,6 +23,70 @@
 <category>Football</category>
 <category>Live Priority</category>
 <category>US content</category>
+</item>
+<item>
+<title>Nuclear submarine sets record as crew ‘turn grey’ after seven months at sea</title>
+<link>https://www.telegraph.co.uk/news/2026/11/15/nuclear-submarine-seven-months-at-sea/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/news/2026/11/15/nuclear-submarine-seven-months-at-sea/</guid>
+<pubDate>Sun, 15 Nov 2026 21:23:33 +0000</pubDate>
+<category>Trident</category>
+<category>Royal Navy Submarine Service</category>
+<category>Nuclear weapons</category>
+<category>Royal Navy</category>
+<category>Vladimir Putin</category>
+<category>News</category>
+<category>Standard</category>
+</item>
+<item>
+<title>Prince William: I think about Aston Villa every day</title>
+<link>https://www.telegraph.co.uk/football/2026/11/15/prince-william-think-aston-villa-every-day/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/football/2026/11/15/prince-william-think-aston-villa-every-day/</guid>
+<pubDate>Sun, 15 Nov 2026 20:55:46 +0000</pubDate>
+<category>Prince William</category>
+<category>Aston Villa FC</category>
+<category>Unai Emery</category>
+<category>Premier League</category>
+<category>The Royal Family</category>
+<category>Europa League</category>
+<category>Sport</category>
+<category>Football</category>
+<category>US content</category>
+<category>Standard</category>
+</item>
+<item>
+<title>From Ballon d’Or to Serie C: Ronaldinho’s bizarre return</title>
+<link>https://www.telegraph.co.uk/football/2026/11/15/from-ballon-dor-to-serie-c-ronaldinhos-bizarre-return/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/football/2026/11/15/from-ballon-dor-to-serie-c-ronaldinhos-bizarre-return/</guid>
+<pubDate>Sun, 15 Nov 2026 20:50:14 +0000</pubDate>
+<category>Italy</category>
+<category>Sport</category>
+<category>Football</category>
+<category>Standard</category>
+</item>
+<item>
+<title>Scotland’s ugly win seals weekend of domination for northern hemisphere</title>
+<link>https://www.telegraph.co.uk/rugby-union/2026/11/15/scotland-v-australia-live-score-latest-nations-championship/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/rugby-union/2026/11/15/scotland-v-australia-live-score-latest-nations-championship/</guid>
+<pubDate>Sun, 15 Nov 2026 20:34:11 +0000</pubDate>
+<category>Scotland Rugby Union Team</category>
+<category>Australia Rugby Union Team</category>
+<category>Rugby Nations Championship</category>
+<category>Apple News free</category>
+<category>Rugby Union</category>
+<category>Sport</category>
+<category>Live Priority</category>
+</item>
+<item>
+<title>Monk who disappeared off Scottish island ‘had no plan to take own life’</title>
+<link>https://www.telegraph.co.uk/news/2026/11/15/monk-disappeared-off-scottish-island-no-plan-suicide/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/news/2026/11/15/monk-disappeared-off-scottish-island-no-plan-suicide/</guid>
+<pubDate>Sun, 15 Nov 2026 20:26:22 +0000</pubDate>
+<category>Police Scotland</category>
+<category>Scotland</category>
+<category>Catholicism</category>
+<category>Orkney</category>
+<category>News</category>
+<category>Standard</category>
 </item>
 <item>
 <title>Asia’s leaders no longer fear wrath of ‘weakened’ Trump</title>
@@ -241,19 +293,6 @@
 <category>Rugby Union</category>
 <category>Sport</category>
 <category>Standard</category>
-</item>
-<item>
-<title>Scotland vs Australia live: Score and latest Nations Championship updates</title>
-<link>https://www.telegraph.co.uk/rugby-union/2026/11/15/scotland-v-australia-live-score-latest-nations-championship/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/rugby-union/2026/11/15/scotland-v-australia-live-score-latest-nations-championship/</guid>
-<pubDate>Sun, 15 Nov 2026 17:54:52 +0000</pubDate>
-<category>Scotland Rugby Union Team</category>
-<category>Australia Rugby Union Team</category>
-<category>Rugby Nations Championship</category>
-<category>Apple News free</category>
-<category>Rugby Union</category>
-<category>Sport</category>
-<category>Live Priority</category>
 </item>
 <item>
 <title>Maldon’s ‘100pc sea salt flakes’ made using German rock salt</title>
@@ -1337,46 +1376,6 @@
 <category>Money</category>
 <category>Better Life Comment</category>
 <category>Opinion</category>
-<category>Comment</category>
-</item>
-<item>
-<title>Tired of dating ‘flaky’ Britons, these midlifers are combining travel and Tinder</title>
-<link>https://www.telegraph.co.uk/travel/news/midlife-women-combine-travel-tinder-dating/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/travel/news/midlife-women-combine-travel-tinder-dating/</guid>
-<pubDate>Sun, 15 Nov 2026 07:01:00 +0000</pubDate>
-<category>Dating advice</category>
-<category>Tinder</category>
-<category>News</category>
-<category>Travel</category>
-<category>Travel Priority</category>
-<category>Standard</category>
-</item>
-<item>
-<title>Macron admits he’s still a small child who never grew up</title>
-<link>https://www.telegraph.co.uk/world-news/2026/11/15/macron-admits-hes-still-a-small-child-who-never-grew-up/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/world-news/2026/11/15/macron-admits-hes-still-a-small-child-who-never-grew-up/</guid>
-<pubDate>Sun, 15 Nov 2026 07:00:00 +0000</pubDate>
-<category>Emmanuel Macron</category>
-<category>Brigitte Trogneux</category>
-<category>France</category>
-<category>World News</category>
-<category>US content</category>
-<category>Sunday Telegraph News</category>
-<category>Standard</category>
-</item>
-<item>
-<title>If not having a job is unpleasant, try beating pheasant</title>
-<link>https://www.telegraph.co.uk/news/2026/11/15/if-not-having-a-job-is-unpleasant-try-beating-pheasant/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/news/2026/11/15/if-not-having-a-job-is-unpleasant-try-beating-pheasant/</guid>
-<pubDate>Sun, 15 Nov 2026 07:00:00 +0000</pubDate>
-<category>Jobs and employment</category>
-<category>Labour Party</category>
-<category>Countryside</category>
-<category>Pheasants</category>
-<category>News</category>
-<category>Opinion</category>
-<category>Politics</category>
-<category>Politics</category>
 <category>Comment</category>
 </item>
 </channel>

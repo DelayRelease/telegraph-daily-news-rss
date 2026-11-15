@@ -5,8 +5,22 @@
 <link>https://www.telegraph.co.uk/</link>
 <description>Latest stories from The Telegraph daily-news sitemap, converted to RSS. Source: https://www.telegraph.co.uk/custom/daily-news/sitemap.xml</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 00:01:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 03:08:18 +0000</lastBuildDate>
 <atom:link href="https://cdn.jsdelivr.net/gh/DelayRelease/telegraph-daily-news-rss@main/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Pochettino: Man Utd job will be ‘very intense’</title>
+<link>https://www.telegraph.co.uk/football/2026/11/15/pochettino-man-utd-job-will-be-very-intense/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/football/2026/11/15/pochettino-man-utd-job-will-be-very-intense/</guid>
+<pubDate>Sun, 15 Nov 2026 03:08:18 +0000</pubDate>
+<category>Mauricio Pochettino</category>
+<category>Premier League</category>
+<category>Manchester United FC</category>
+<category>USA Football Team</category>
+<category>Sport</category>
+<category>Football</category>
+<category>US content</category>
+<category>Standard</category>
+</item>
 <item>
 <title>Loch Lomond Arms</title>
 <link>https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/scotland/loch-lomond/hotels/loch-lomond-arms-hotel/</link>
@@ -1356,20 +1370,6 @@
 <category>Football</category>
 <category>US content</category>
 <category>Standard</category>
-</item>
-<item>
-<title>Flights restart after US ground stop with more delays ahead</title>
-<link>https://www.telegraph.co.uk/us/news/2026/11/13/all-us-flights-grounded-because-extraordinary-circumstances/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/us/news/2026/11/13/all-us-flights-grounded-because-extraordinary-circumstances/</guid>
-<pubDate>Sat, 14 Nov 2026 08:27:21 +0000</pubDate>
-<category>Aviation</category>
-<category>Airport</category>
-<category>Donald Trump</category>
-<category>Apple News free</category>
-<category>News</category>
-<category>US News</category>
-<category>US content</category>
-<category>Live &amp; breaking</category>
 </item>
 </channel>
 </rss>

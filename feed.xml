@@ -5,8 +5,44 @@
 <link>https://www.telegraph.co.uk/</link>
 <description>Latest stories from The Telegraph daily-news sitemap, converted to RSS. Source: https://www.telegraph.co.uk/custom/daily-news/sitemap.xml</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 23:16:18 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 00:01:06 +0000</lastBuildDate>
 <atom:link href="https://cdn.jsdelivr.net/gh/DelayRelease/telegraph-daily-news-rss@main/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Loch Lomond Arms</title>
+<link>https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/scotland/loch-lomond/hotels/loch-lomond-arms-hotel/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/scotland/loch-lomond/hotels/loch-lomond-arms-hotel/</guid>
+<pubDate>Sun, 15 Nov 2026 00:01:06 +0000</pubDate>
+<category>Loch Lomond</category>
+<category>Scotland</category>
+<category>United Kingdom</category>
+<category>EG General</category>
+<category>Hotel</category>
+<category>Review</category>
+</item>
+<item>
+<title>Remainers fail to convince when blaming Brexit for the UK&#x27;s economic woes</title>
+<link>https://www.telegraph.co.uk/opinion/2026/11/15/remainers-fail-convince-blaming-brexit-uk-economic-woes/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/opinion/2026/11/15/remainers-fail-convince-blaming-brexit-uk-economic-woes/</guid>
+<pubDate>Sun, 15 Nov 2026 00:01:00 +0000</pubDate>
+<category>Brexit</category>
+<category>Andy Burnham</category>
+<category>European Union</category>
+<category>Opinion</category>
+<category>Letters</category>
+<category>US content</category>
+<category>Comment</category>
+</item>
+<item>
+<title>Shinta Mani Mustang</title>
+<link>https://www.telegraph.co.uk/travel/destinations/asia/nepal/hotels/shinta-mani-mustang-hotel/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/travel/destinations/asia/nepal/hotels/shinta-mani-mustang-hotel/</guid>
+<pubDate>Sat, 14 Nov 2026 23:43:16 +0000</pubDate>
+<category>Nepal</category>
+<category>Asia</category>
+<category>EG General</category>
+<category>Hotel</category>
+<category>Review</category>
+</item>
 <item>
 <title>Nômade Temple Ibiza</title>
 <link>https://www.telegraph.co.uk/travel/destinations/europe/spain/ibiza/hotels/nomade-temple-ibiza-hotel/</link>
@@ -1334,44 +1370,6 @@
 <category>US News</category>
 <category>US content</category>
 <category>Live &amp; breaking</category>
-</item>
-<item>
-<title>Noel Fielding: ‘Me and Russell Brand were never friends’</title>
-<link>https://www.telegraph.co.uk/news/2026/11/14/noel-fielding-me-and-russell-brand-were-never-friends/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/news/2026/11/14/noel-fielding-me-and-russell-brand-were-never-friends/</guid>
-<pubDate>Sat, 14 Nov 2026 08:00:00 +0000</pubDate>
-<category>Russell Brand</category>
-<category>Noel Fielding</category>
-<category>Great British Bake Off</category>
-<category>Sexual Assault</category>
-<category>Metropolitan Police Service</category>
-<category>Court cases</category>
-<category>News</category>
-<category>UK News</category>
-<category>Standard</category>
-</item>
-<item>
-<title>How we created a contemporary hobbit home</title>
-<link>https://www.telegraph.co.uk/interiors/home/how-we-created-a-contemporary-hobbit-home/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/interiors/home/how-we-created-a-contemporary-hobbit-home/</guid>
-<pubDate>Sat, 14 Nov 2026 08:00:00 +0000</pubDate>
-<category>Interiors</category>
-<category>Sustainability</category>
-<category>Dartmoor</category>
-<category>Property and construction industry</category>
-<category>Standard</category>
-</item>
-<item>
-<title>Jewish students hiding faith when applying to university, parents claim</title>
-<link>https://www.telegraph.co.uk/news/2026/11/14/jewish-students-hiding-faith-when-applying-to-university/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/news/2026/11/14/jewish-students-hiding-faith-when-applying-to-university/</guid>
-<pubDate>Sat, 14 Nov 2026 08:00:00 +0000</pubDate>
-<category>Anti-Semitism</category>
-<category>University open days</category>
-<category>Universities and Colleges Admissions Service (UCAS)</category>
-<category>News</category>
-<category>Sunday Telegraph News</category>
-<category>Standard</category>
 </item>
 </channel>
 </rss>

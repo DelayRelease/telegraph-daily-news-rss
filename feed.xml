@@ -5,8 +5,47 @@
 <link>https://www.telegraph.co.uk/</link>
 <description>Latest stories from The Telegraph daily-news sitemap, converted to RSS. Source: https://www.telegraph.co.uk/custom/daily-news/sitemap.xml</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 23:32:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 07:00:00 +0000</lastBuildDate>
 <atom:link href="https://cdn.jsdelivr.net/gh/DelayRelease/telegraph-daily-news-rss@main/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The Lantern Inn</title>
+<link>https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/kent/hotels/the-lantern-inn-hotel/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/kent/hotels/the-lantern-inn-hotel/</guid>
+<pubDate>Mon, 16 Nov 2026 07:00:00 +0000</pubDate>
+<category>Dover</category>
+<category>Kent</category>
+<category>England</category>
+<category>United Kingdom</category>
+<category>EG General</category>
+<category>Hotel</category>
+<category>Review</category>
+</item>
+<item>
+<title>Hundreds protest outside ‘proudly non-halal’ restaurant</title>
+<link>https://www.telegraph.co.uk/news/2026/11/15/hundreds-protest-proudly-non-halal-restaurant/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/news/2026/11/15/hundreds-protest-proudly-non-halal-restaurant/</guid>
+<pubDate>Sun, 15 Nov 2026 23:53:36 +0000</pubDate>
+<category>Protests</category>
+<category>Restaurants</category>
+<category>Social media</category>
+<category>Metropolitan Police Service</category>
+<category>News</category>
+<category>Standard</category>
+</item>
+<item>
+<title>Tunnel bust-up and bold press: Anatomy of one of England’s best nights</title>
+<link>https://www.telegraph.co.uk/football/2026/11/15/seven-reasons-this-was-one-of-englands-great-performances/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/football/2026/11/15/seven-reasons-this-was-one-of-englands-great-performances/</guid>
+<pubDate>Sun, 15 Nov 2026 23:40:27 +0000</pubDate>
+<category>England Football Team</category>
+<category>Thomas Tuchel</category>
+<category>Spain Football Team</category>
+<category>Uefa Nations League</category>
+<category>Sport</category>
+<category>Football</category>
+<category>US content</category>
+<category>Standard</category>
+</item>
 <item>
 <title>England stun world champions Spain in one of their greatest victories</title>
 <link>https://www.telegraph.co.uk/football/2026/11/15/spain-vs-england-live-score-latest-nations-league-updates/</link>
@@ -1337,47 +1376,6 @@
 <category>US content</category>
 <category>Relationships</category>
 <category>Standard</category>
-</item>
-<item>
-<title>The world is more vulnerable to an AI bust than ever</title>
-<link>https://www.telegraph.co.uk/business/2026/11/15/the-world-is-more-vulnerable-to-an-ai-bust-than-ever/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/business/2026/11/15/the-world-is-more-vulnerable-to-an-ai-bust-than-ever/</guid>
-<pubDate>Sun, 15 Nov 2026 08:00:00 +0000</pubDate>
-<category>Artificial Intelligence</category>
-<category>US economy</category>
-<category>US midterms</category>
-<category>Shares</category>
-<category>Business</category>
-<category>Comment</category>
-</item>
-<item>
-<title>How a scandal-hit concert hall became the greatest in the world</title>
-<link>https://www.telegraph.co.uk/music/classical-music/hamburg-elbphilharmonie/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/music/classical-music/hamburg-elbphilharmonie/</guid>
-<pubDate>Sun, 15 Nov 2026 08:00:00 +0000</pubDate>
-<category>Hamburg</category>
-<category>Germany</category>
-<category>Classical concerts</category>
-<category>Classical Music Appreciation with Ivan Hewett</category>
-<category>Classical music</category>
-<category>Music</category>
-<category>Culture</category>
-<category>US content</category>
-<category>Ivan Hewett</category>
-<category>Standard</category>
-</item>
-<item>
-<title>Go and beat Spain, Tuchel, and make us truly believe</title>
-<link>https://www.telegraph.co.uk/football/2026/11/15/go-and-beat-spain-tuchel-and-make-us-truly-believe/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/football/2026/11/15/go-and-beat-spain-tuchel-and-make-us-truly-believe/</guid>
-<pubDate>Sun, 15 Nov 2026 08:00:00 +0000</pubDate>
-<category>England Football Team</category>
-<category>Thomas Tuchel</category>
-<category>Spain Football Team</category>
-<category>Uefa Nations League</category>
-<category>Sport</category>
-<category>Football</category>
-<category>Comment</category>
 </item>
 </channel>
 </rss>

@@ -5,8 +5,35 @@
 <link>https://www.telegraph.co.uk/</link>
 <description>Latest stories from The Telegraph daily-news sitemap, converted to RSS. Source: https://www.telegraph.co.uk/custom/daily-news/sitemap.xml</description>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 20:33:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 21:08:07 +0000</lastBuildDate>
 <atom:link href="https://cdn.jsdelivr.net/gh/DelayRelease/telegraph-daily-news-rss@main/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Swansea manager Vitor Matos targeted by Chelsea’s sister club</title>
+<link>https://www.telegraph.co.uk/football/2026/11/16/swansea-manager-vitor-matos-eyed-by-chelseas-sister-club/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/football/2026/11/16/swansea-manager-vitor-matos-eyed-by-chelseas-sister-club/</guid>
+<pubDate>Mon, 16 Nov 2026 21:08:07 +0000</pubDate>
+<category>Chelsea FC</category>
+<category>Swansea City AFC</category>
+<category>EFL Championship</category>
+<category>Sport</category>
+<category>Football</category>
+<category>Standard</category>
+</item>
+<item>
+<title>Mahmood’s police reforms ‘will mean 130,000 fewer crimes solved’</title>
+<link>https://www.telegraph.co.uk/news/2026/11/16/mahmoods-police-reforms-mean-130000-fewer-crimes-solved/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/news/2026/11/16/mahmoods-police-reforms-mean-130000-fewer-crimes-solved/</guid>
+<pubDate>Mon, 16 Nov 2026 20:47:30 +0000</pubDate>
+<category>Shabana Mahmood</category>
+<category>Home Office</category>
+<category>Police</category>
+<category>Bernard Hogan-Howe</category>
+<category>Chris Philp</category>
+<category>Metropolitan Police Service</category>
+<category>News</category>
+<category>UK News</category>
+<category>Standard</category>
+</item>
 <item>
 <title>Mrs Burnham Lord Mayor&#x27;s banquet</title>
 <link>https://www.telegraph.co.uk/fashion/people/mrs-burnham-lord-mayors-banquet/</link>
@@ -39,6 +66,19 @@
 <category>Leeds</category>
 <category>West Yorkshire Police</category>
 <category>News</category>
+<category>Standard</category>
+</item>
+<item>
+<title>Driver accused of killing two in BMW crash weeps in court</title>
+<link>https://www.telegraph.co.uk/news/2026/11/16/im-sorry-driver-accused-killing-two-bmw-crash-tells-cour/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/news/2026/11/16/im-sorry-driver-accused-killing-two-bmw-crash-tells-cour/</guid>
+<pubDate>Mon, 16 Nov 2026 20:15:28 +0000</pubDate>
+<category>Court cases</category>
+<category>Leeds</category>
+<category>West Yorkshire Police</category>
+<category>Harrogate</category>
+<category>News</category>
+<category>UK News</category>
 <category>Standard</category>
 </item>
 <item>
@@ -1309,39 +1349,6 @@
 <pubDate>Mon, 16 Nov 2026 12:22:00 +0000</pubDate>
 <category>Sponsored</category>
 <category>Destination Canada 2026</category>
-</item>
-<item>
-<title>New York teenager reunited with cat trapped in collapsed building</title>
-<link>https://www.telegraph.co.uk/world-news/2026/11/16/new-york-teenager-reunited-cat-trapped-collapsed-building/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/world-news/2026/11/16/new-york-teenager-reunited-cat-trapped-collapsed-building/</guid>
-<pubDate>Mon, 16 Nov 2026 12:20:02 +0000</pubDate>
-<category>New York City</category>
-<category>Cats</category>
-<category>World News</category>
-<category>Standard</category>
-</item>
-<item>
-<title>Unplug and beat digital burnout the Canadian way</title>
-<link>https://www.telegraph.co.uk/travel/explore-canada/digital-detox/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/travel/explore-canada/digital-detox/</guid>
-<pubDate>Mon, 16 Nov 2026 12:20:00 +0000</pubDate>
-<category>Sponsored</category>
-<category>Destination Canada 2026</category>
-<category>Apple News include</category>
-</item>
-<item>
-<title>Burnham backs 3pm football blackout</title>
-<link>https://www.telegraph.co.uk/football/2026/11/16/burnham-backs-3pm-football-blackout/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/football/2026/11/16/burnham-backs-3pm-football-blackout/</guid>
-<pubDate>Mon, 16 Nov 2026 12:05:27 +0000</pubDate>
-<category>Premier League</category>
-<category>Football League 2</category>
-<category>EFL Championship</category>
-<category>Football League 1</category>
-<category>Andy Burnham</category>
-<category>Sport</category>
-<category>Football</category>
-<category>Standard</category>
 </item>
 </channel>
 </rss>

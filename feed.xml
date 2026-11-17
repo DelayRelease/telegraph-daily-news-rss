@@ -5,8 +5,36 @@
 <link>https://www.telegraph.co.uk/</link>
 <description>Latest stories from The Telegraph daily-news sitemap, converted to RSS. Source: https://www.telegraph.co.uk/custom/daily-news/sitemap.xml</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 00:47:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 05:00:00 +0000</lastBuildDate>
 <atom:link href="https://cdn.jsdelivr.net/gh/DelayRelease/telegraph-daily-news-rss@main/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The race for Weapon X</title>
+<link>https://www.telegraph.co.uk/world-news/2026/11/17/weapon-x-artificial-intelligence-biological-chemical-weapon/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/world-news/2026/11/17/weapon-x-artificial-intelligence-biological-chemical-weapon/</guid>
+<pubDate>Tue, 17 Nov 2026 05:00:00 +0000</pubDate>
+<category>Artificial Intelligence</category>
+<category>Bioterrorism</category>
+<category>Biotech</category>
+<category>Genetic modification</category>
+<category>Terrorism</category>
+<category>World News</category>
+<category>US content</category>
+<category>Standard</category>
+</item>
+<item>
+<title>How the humble British holiday became unaffordable</title>
+<link>https://www.telegraph.co.uk/money/consumer-affairs/humble-british-holiday-became-unaffordable/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/money/consumer-affairs/humble-british-holiday-became-unaffordable/</guid>
+<pubDate>Tue, 17 Nov 2026 05:00:00 +0000</pubDate>
+<category>Consumer Affairs</category>
+<category>School holidays</category>
+<category>Tax rises</category>
+<category>Money</category>
+<category>Tax</category>
+<category>Top Story</category>
+<category>Spine</category>
+<category>Standard</category>
+</item>
 <item>
 <title>Iran ‘plans to target Trump officials with dirty bomb’</title>
 <link>https://www.telegraph.co.uk/us/news/2026/11/17/iran-plans-to-target-trump-officials-with-dirty-bomb/</link>
@@ -1339,28 +1367,6 @@
 <category>Sponsored</category>
 <category>Home</category>
 <category>Latest</category>
-</item>
-<item>
-<title>Cranford, review: Tamsin Greig is perfect in this exquisite adaptation</title>
-<link>https://www.telegraph.co.uk/theatre/what-to-see/cranford-starring-tamsin-greig-review-orange-tree-theatre/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/theatre/what-to-see/cranford-starring-tamsin-greig-review-orange-tree-theatre/</guid>
-<pubDate>Mon, 16 Nov 2026 13:29:45 +0000</pubDate>
-<category>Orange Tree Theatre</category>
-<category>Theatre</category>
-<category>Culture</category>
-<category>Culture Editor&#x27;s Choice</category>
-<category>Review</category>
-</item>
-<item>
-<title>Students’ glasses inspected after AI cheating scandal in South Korea</title>
-<link>https://www.telegraph.co.uk/world-news/2026/11/16/students-glasses-inspected-ai-cheating-scandal-south-korea/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/world-news/2026/11/16/students-glasses-inspected-ai-cheating-scandal-south-korea/</guid>
-<pubDate>Mon, 16 Nov 2026 13:27:43 +0000</pubDate>
-<category>Artificial Intelligence</category>
-<category>South Korea</category>
-<category>Exams</category>
-<category>World News</category>
-<category>Standard</category>
 </item>
 </channel>
 </rss>

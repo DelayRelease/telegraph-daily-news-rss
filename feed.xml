@@ -5,8 +5,104 @@
 <link>https://www.telegraph.co.uk/</link>
 <description>Latest stories from The Telegraph daily-news sitemap, converted to RSS. Source: https://www.telegraph.co.uk/custom/daily-news/sitemap.xml</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 09:29:44 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 10:24:50 +0000</lastBuildDate>
 <atom:link href="https://cdn.jsdelivr.net/gh/DelayRelease/telegraph-daily-news-rss@main/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Commuters face disruption as snow blankets parts of UK</title>
+<link>https://www.telegraph.co.uk/news/2026/11/17/commuters-face-disruption-as-snow-blankets-parts-of-uk/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/news/2026/11/17/commuters-face-disruption-as-snow-blankets-parts-of-uk/</guid>
+<pubDate>Tue, 17 Nov 2026 10:24:50 +0000</pubDate>
+<category>Snow</category>
+<category>UK Weather</category>
+<category>Weather</category>
+<category>Met Office</category>
+<category>News</category>
+<category>UK News</category>
+<category>Standard</category>
+</item>
+<item>
+<title>Job vacancies plunge ahead of Labour’s workers’ rights reforms – latest updates</title>
+<link>https://www.telegraph.co.uk/business/2026/11/17/job-vacancies-growth-milburn-employment-ftse-100-markets/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/business/2026/11/17/job-vacancies-growth-milburn-employment-ftse-100-markets/</guid>
+<pubDate>Tue, 17 Nov 2026 10:15:53 +0000</pubDate>
+<category>UK economy</category>
+<category>FTSE 100</category>
+<category>Pound</category>
+<category>Dow Jones Industrial Average</category>
+<category>Cost of living crisis</category>
+<category>Global economy</category>
+<category>Business</category>
+<category>Live Priority</category>
+<category>Apple News free</category>
+</item>
+<item>
+<title>Beckham shouldn’t be too snobby for Poundland</title>
+<link>https://www.telegraph.co.uk/news/2026/11/17/celia-walden-david-beckham-poundland-lawsuit/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/news/2026/11/17/celia-walden-david-beckham-poundland-lawsuit/</guid>
+<pubDate>Tue, 17 Nov 2026 10:09:37 +0000</pubDate>
+<category>David Beckham</category>
+<category>Poundland</category>
+<category>News</category>
+<category>Daily Features</category>
+<category>Other features</category>
+<category>Opinion</category>
+<category>Celia Walden</category>
+<category>Lifestyle columnist redirect</category>
+<category>US content</category>
+<category>Comment</category>
+</item>
+<item>
+<title>‘Why is HMRC asking me to pay my tax bill twice?’</title>
+<link>https://www.telegraph.co.uk/money/tax/income/why-is-hmrc-asking-me-to-pay-my-tax-bill-twice/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/money/tax/income/why-is-hmrc-asking-me-to-pay-my-tax-bill-twice/</guid>
+<pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
+<category>Income tax</category>
+<category>HM Revenue &amp; Customs</category>
+<category>Tax in retirement</category>
+<category>Tax returns</category>
+<category>Money</category>
+<category>Better Life Experts</category>
+<category>Tax</category>
+<category>Comment</category>
+</item>
+<item>
+<title>Royal Academy of Art: Peggy Guggenheim’s great art collection returns to London</title>
+<link>https://www.telegraph.co.uk/art/reviews/royal-academy-of-art-peggy-guggenheim/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/art/reviews/royal-academy-of-art-peggy-guggenheim/</guid>
+<pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
+<category>Royal Academy</category>
+<category>Art</category>
+<category>Culture</category>
+<category>Culture Editor&#x27;s Choice</category>
+<category>Review</category>
+</item>
+<item>
+<title>Bryson DeChambeau joins DP World Tour to end golf exile</title>
+<link>https://www.telegraph.co.uk/golf/2026/11/17/bryson-dechambeau-joins-dp-world-tour-to-end-golf-exile/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/golf/2026/11/17/bryson-dechambeau-joins-dp-world-tour-to-end-golf-exile/</guid>
+<pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
+<category>Bryson DeChambeau</category>
+<category>DP World Tour</category>
+<category>Sport</category>
+<category>US content</category>
+<category>Golf</category>
+<category>Standard</category>
+</item>
+<item>
+<title>Failed asylum seekers will be deported without notice</title>
+<link>https://www.telegraph.co.uk/news/2026/11/17/failed-asylum-seekers-will-be-deported-without-notice/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/news/2026/11/17/failed-asylum-seekers-will-be-deported-without-notice/</guid>
+<pubDate>Tue, 17 Nov 2026 09:50:09 +0000</pubDate>
+<category>Shabana Mahmood</category>
+<category>Migrants</category>
+<category>Immigration</category>
+<category>Deportation</category>
+<category>Border security</category>
+<category>Home Office</category>
+<category>News</category>
+<category>Politics</category>
+<category>Standard</category>
+</item>
 <item>
 <title>OpenAI sued by California over hacking attack by rogue AI bots</title>
 <link>https://www.telegraph.co.uk/business/2026/11/17/openai-sued-by-california-over-hacking-attack-by-rogue-ai/</link>
@@ -171,21 +267,6 @@
 <category>Darts</category>
 <category>Sport</category>
 <category>Standard</category>
-</item>
-<item>
-<title>Job vacancies plunge ahead of Labour’s workers’ rights reforms – latest updates</title>
-<link>https://www.telegraph.co.uk/business/2026/11/17/job-vacancies-growth-milburn-employment-ftse-100-markets/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/business/2026/11/17/job-vacancies-growth-milburn-employment-ftse-100-markets/</guid>
-<pubDate>Tue, 17 Nov 2026 08:14:00 +0000</pubDate>
-<category>UK economy</category>
-<category>FTSE 100</category>
-<category>Pound</category>
-<category>Dow Jones Industrial Average</category>
-<category>Cost of living crisis</category>
-<category>Global economy</category>
-<category>Business</category>
-<category>Live Priority</category>
-<category>Apple News free</category>
 </item>
 <item>
 <title>US investigates company led by Jensen Huang’s ‘Chinese spy mistress’</title>
@@ -1291,94 +1372,6 @@
 <category>Business</category>
 <category>Live Priority</category>
 <category>Apple News free</category>
-</item>
-<item>
-<title>As a teen I happily dated a man twice my age, but the law shouldn’t have allowed it</title>
-<link>https://www.telegraph.co.uk/news/2026/11/16/teen-consensual-relationship-older-man/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/news/2026/11/16/teen-consensual-relationship-older-man/</guid>
-<pubDate>Mon, 16 Nov 2026 17:52:44 +0000</pubDate>
-<category>Relationships</category>
-<category>Motherhood</category>
-<category>Sexual consent</category>
-<category>Sexual Assault</category>
-<category>News</category>
-<category>Daily Features</category>
-<category>Other features</category>
-<category>US content</category>
-<category>Celia Walden</category>
-<category>Opinion</category>
-<category>Top Story</category>
-<category>Comment</category>
-</item>
-<item>
-<title>Road trip ideas</title>
-<link>https://www.telegraph.co.uk/travel/visit-victoria-australia/road-trip-ideas/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/travel/visit-victoria-australia/road-trip-ideas/</guid>
-<pubDate>Mon, 16 Nov 2026 17:35:00 +0000</pubDate>
-<category>Sponsored</category>
-<category>BA Victoria</category>
-<category>Apple News include</category>
-</item>
-<item>
-<title>Thomas Frank failed at Tottenham and must prove Brentford was not a one off</title>
-<link>https://www.telegraph.co.uk/football/2026/11/16/thomas-frank-failed-must-prove-brentford-was-not-one-off/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/football/2026/11/16/thomas-frank-failed-must-prove-brentford-was-not-one-off/</guid>
-<pubDate>Mon, 16 Nov 2026 17:32:07 +0000</pubDate>
-<category>Crystal Palace FC</category>
-<category>Tottenham Hotspur FC</category>
-<category>Brentford FC</category>
-<category>Thomas Frank</category>
-<category>Premier League</category>
-<category>Sport</category>
-<category>Football</category>
-<category>US content</category>
-<category>Standard</category>
-</item>
-<item>
-<title>What men can learn from women’s righteous anger</title>
-<link>https://www.telegraph.co.uk/news/2026/11/16/what-men-can-learn-from-women-righteous-anger/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/news/2026/11/16/what-men-can-learn-from-women-righteous-anger/</guid>
-<pubDate>Mon, 16 Nov 2026 17:27:13 +0000</pubDate>
-<category>Anger management</category>
-<category>Feminism</category>
-<category>Sexism</category>
-<category>Women&#x27;s health</category>
-<category>Mental health</category>
-<category>Crime</category>
-<category>News</category>
-<category>Opinion</category>
-<category>Comment</category>
-</item>
-<item>
-<title>Russell Brand’s appalling prison ploy: ‘He’s using his brainwashed wife as a mouthpiece’</title>
-<link>https://www.telegraph.co.uk/news/2026/11/16/daily-t-russell-brands-appalling-prison-ploy-hes-using-his/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/news/2026/11/16/daily-t-russell-brands-appalling-prison-ploy-hes-using-his/</guid>
-<pubDate>Mon, 16 Nov 2026 17:13:29 +0000</pubDate>
-<category>The Daily T podcast</category>
-<category>Russell Brand</category>
-<category>Prisons</category>
-<category>Andy Burnham</category>
-<category>Brexit</category>
-<category>News</category>
-<category>Special exclusion</category>
-<category>UK News</category>
-<category>Standard</category>
-</item>
-<item>
-<title>Scrapping green levies ‘would save households £250 a year’</title>
-<link>https://www.telegraph.co.uk/politics/2026/11/16/scrapping-green-levies-would-save-households-250-a-year/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/politics/2026/11/16/scrapping-green-levies-would-save-households-250-a-year/</guid>
-<pubDate>Mon, 16 Nov 2026 17:07:41 +0000</pubDate>
-<category>Net Zero</category>
-<category>UK economy</category>
-<category>Climate change</category>
-<category>Energy industry</category>
-<category>Electricity bills</category>
-<category>Gas bills</category>
-<category>News</category>
-<category>Politics</category>
-<category>UK News</category>
-<category>Standard</category>
 </item>
 </channel>
 </rss>

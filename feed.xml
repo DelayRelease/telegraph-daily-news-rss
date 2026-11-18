@@ -5,8 +5,34 @@
 <link>https://www.telegraph.co.uk/</link>
 <description>Latest stories from The Telegraph daily-news sitemap, converted to RSS. Source: https://www.telegraph.co.uk/custom/daily-news/sitemap.xml</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 23:25:24 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 00:01:00 +0000</lastBuildDate>
 <atom:link href="https://cdn.jsdelivr.net/gh/DelayRelease/telegraph-daily-news-rss@main/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Testosterone ads banned over low sex drive claims</title>
+<link>https://www.telegraph.co.uk/global-health/science-and-disease/testosterone-ads-banned-over-low-sex-drive-claims/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/global-health/science-and-disease/testosterone-ads-banned-over-low-sex-drive-claims/</guid>
+<pubDate>Wed, 18 Nov 2026 00:01:00 +0000</pubDate>
+<category>Global Health Security</category>
+<category>Testosterone Replacement Therapy (TRT)</category>
+<category>Alternative medicine</category>
+<category>Advertising Standards Authority (ASA)</category>
+<category>Global Health Security</category>
+<category>Science &amp; Disease</category>
+<category>Standard</category>
+</item>
+<item>
+<title>Woman raped by migrant fought for prosecution ‘after CPS cited rape myths’</title>
+<link>https://www.telegraph.co.uk/news/2026/11/17/woman-fought-for-prosecution-after-cps-rape-myths/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/news/2026/11/17/woman-fought-for-prosecution-after-cps-rape-myths/</guid>
+<pubDate>Tue, 17 Nov 2026 23:43:54 +0000</pubDate>
+<category>Court cases</category>
+<category>Sexual Assault</category>
+<category>Migrants</category>
+<category>Crown Prosecution Service</category>
+<category>Crime</category>
+<category>News</category>
+<category>Standard</category>
+</item>
 <item>
 <title>Irish man ‘destroyed $60m US military jet in protest over Gaza War’</title>
 <link>https://www.telegraph.co.uk/us/news/2026/11/17/irish-man-destroyed-60m-us-military-jet-gaza-protest/</link>
@@ -1313,19 +1339,6 @@
 <category>Scientific research</category>
 <category>Anglia Ruskin University</category>
 <category>News</category>
-<category>Standard</category>
-</item>
-<item>
-<title>Epstein’s bank handled almost $600m of payments linked to paedophile</title>
-<link>https://www.telegraph.co.uk/business/2026/11/17/epsteins-bank-handled-almost-600m-of-suspicious-payments/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/business/2026/11/17/epsteins-bank-handled-almost-600m-of-suspicious-payments/</guid>
-<pubDate>Tue, 17 Nov 2026 16:17:00 +0000</pubDate>
-<category>Jeffrey Epstein</category>
-<category>Deutsche Bank</category>
-<category>Banks and Finance</category>
-<category>Financial crime</category>
-<category>Business</category>
-<category>Companies</category>
 <category>Standard</category>
 </item>
 </channel>

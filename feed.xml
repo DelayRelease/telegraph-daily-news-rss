@@ -5,8 +5,21 @@
 <link>https://www.telegraph.co.uk/</link>
 <description>Latest stories from The Telegraph daily-news sitemap, converted to RSS. Source: https://www.telegraph.co.uk/custom/daily-news/sitemap.xml</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 00:01:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 00:40:55 +0000</lastBuildDate>
 <atom:link href="https://cdn.jsdelivr.net/gh/DelayRelease/telegraph-daily-news-rss@main/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Mahmood orders police to tackle ‘two-tier policing’</title>
+<link>https://www.telegraph.co.uk/news/2026/11/18/police-given-impartiality-guidance-tackle-two-tier-policing/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/news/2026/11/18/police-given-impartiality-guidance-tackle-two-tier-policing/</guid>
+<pubDate>Wed, 18 Nov 2026 00:40:55 +0000</pubDate>
+<category>Shabana Mahmood</category>
+<category>Henry Nowak</category>
+<category>Crime</category>
+<category>Metropolitan Police Service</category>
+<category>News</category>
+<category>UK News</category>
+<category>Standard</category>
+</item>
 <item>
 <title>Testosterone ads banned over low sex drive claims</title>
 <link>https://www.telegraph.co.uk/global-health/science-and-disease/testosterone-ads-banned-over-low-sex-drive-claims/</link>
@@ -284,6 +297,21 @@
 <title>Pentagon detains US soldier accused of spying at British base</title>
 <link>https://www.telegraph.co.uk/us/news/2026/11/17/pentagon-detains-us-soldier-accused-of-spying-at-british-ba</link>
 <guid isPermaLink="true">https://www.telegraph.co.uk/us/news/2026/11/17/pentagon-detains-us-soldier-accused-of-spying-at-british-ba</guid>
+<pubDate>Tue, 17 Nov 2026 19:17:31 +0000</pubDate>
+<category>British Army</category>
+<category>US Army</category>
+<category>Espionage</category>
+<category>Nato (North Atlantic Treaty Organization)</category>
+<category>News</category>
+<category>US News</category>
+<category>US content</category>
+<category>Live &amp; breaking</category>
+<category>Standard</category>
+</item>
+<item>
+<title>Pentagon detains US soldier accused of spying at British base</title>
+<link>https://www.telegraph.co.uk/us/news/2026/11/17/pentagon-detains-us-soldier-accused-of-spying-at-british-ba/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/us/news/2026/11/17/pentagon-detains-us-soldier-accused-of-spying-at-british-ba/</guid>
 <pubDate>Tue, 17 Nov 2026 19:17:31 +0000</pubDate>
 <category>British Army</category>
 <category>US Army</category>
@@ -1317,28 +1345,6 @@
 <category>Money</category>
 <category>Property</category>
 <category>Top Story</category>
-<category>Standard</category>
-</item>
-<item>
-<title>Everything you need to know about Safer Gambling 2026</title>
-<link>https://www.telegraph.co.uk/betting/safer-gambling-content/safer-gambling-week-2026/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/betting/safer-gambling-content/safer-gambling-week-2026/</guid>
-<pubDate>Tue, 17 Nov 2026 16:18:00 +0000</pubDate>
-<category>Apple News include</category>
-<category>Betting</category>
-</item>
-<item>
-<title>Beer is much worse for your kidneys than wine, study finds</title>
-<link>https://www.telegraph.co.uk/news/2026/11/17/beer-is-much-worse-for-your-kidneys-than-wine-study-finds/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/news/2026/11/17/beer-is-much-worse-for-your-kidneys-than-wine-study-finds/</guid>
-<pubDate>Tue, 17 Nov 2026 16:17:00 +0000</pubDate>
-<category>Kidney disease</category>
-<category>Alcohol</category>
-<category>Wine</category>
-<category>Beer</category>
-<category>Scientific research</category>
-<category>Anglia Ruskin University</category>
-<category>News</category>
 <category>Standard</category>
 </item>
 </channel>

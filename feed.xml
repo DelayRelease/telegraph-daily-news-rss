@@ -5,8 +5,39 @@
 <link>https://www.telegraph.co.uk/</link>
 <description>Latest stories from The Telegraph daily-news sitemap, converted to RSS. Source: https://www.telegraph.co.uk/custom/daily-news/sitemap.xml</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 00:40:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 03:00:22 +0000</lastBuildDate>
 <atom:link href="https://cdn.jsdelivr.net/gh/DelayRelease/telegraph-daily-news-rss@main/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Pakistani man jailed over Iran-backed plot to kill Donald Trump</title>
+<link>https://www.telegraph.co.uk/us/news/2026/11/18/pakistani-man-asif-merchant-jail-iran-plot-kill-trump/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/us/news/2026/11/18/pakistani-man-asif-merchant-jail-iran-plot-kill-trump/</guid>
+<pubDate>Wed, 18 Nov 2026 03:00:22 +0000</pubDate>
+<category>Donald Trump</category>
+<category>Court cases</category>
+<category>Iran War</category>
+<category>Joe Biden</category>
+<category>News</category>
+<category>US News</category>
+<category>US content</category>
+<category>Standard</category>
+</item>
+<item>
+<title>Waymo pulls driverless cars from US freeways over safety fears</title>
+<link>https://www.telegraph.co.uk/us/news/2026/11/18/waymo-pulls-driverless-cars-from-us-freeways-over-safety-fe/</link>
+<guid isPermaLink="true">https://www.telegraph.co.uk/us/news/2026/11/18/waymo-pulls-driverless-cars-from-us-freeways-over-safety-fe/</guid>
+<pubDate>Wed, 18 Nov 2026 02:59:30 +0000</pubDate>
+<category>Driverless cars</category>
+<category>California</category>
+<category>Roads</category>
+<category>Silicon Valley</category>
+<category>Alphabet</category>
+<category>Self driving cars</category>
+<category>News</category>
+<category>US News</category>
+<category>US content</category>
+<category>Business</category>
+<category>Standard</category>
+</item>
 <item>
 <title>Mahmood orders police to tackle ‘two-tier policing’</title>
 <link>https://www.telegraph.co.uk/news/2026/11/18/police-given-impartiality-guidance-tackle-two-tier-policing/</link>
@@ -1316,21 +1347,6 @@
 <category>Apple News include</category>
 <category>Sponsored</category>
 <category>Dating Index advice</category>
-</item>
-<item>
-<title>Pensioners face losing 20pc of income to mansion tax</title>
-<link>https://www.telegraph.co.uk/money/tax/news/pensioners-face-losing-20pc-of-income-to-mansion-tax/</link>
-<guid isPermaLink="true">https://www.telegraph.co.uk/money/tax/news/pensioners-face-losing-20pc-of-income-to-mansion-tax/</guid>
-<pubDate>Tue, 17 Nov 2026 16:18:00 +0000</pubDate>
-<category>UK property</category>
-<category>Tax rises</category>
-<category>Retirement</category>
-<category>Tax in retirement</category>
-<category>Tax</category>
-<category>Money</category>
-<category>Property</category>
-<category>Top Story</category>
-<category>Standard</category>
 </item>
 </channel>
 </rss>
